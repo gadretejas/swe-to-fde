@@ -1,0 +1,1 @@
+Original lesson content recovered from the rendered SWE To FDE Playbook conversation on 2026-10-23. Original prose, scenarios, tables and linked resources are retained. Framework controls are adapted to native HTML, local quizzes and saved exercise drafts. Resources are independently checked in resource-verification.json. No AI backend is included.

@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://sre.google/sre-book/reliable-product-launches/",
+    "title": "Reliable Product Launches at Scale",
+    "checked": "2026-10-25"
+  },
+  {
+    "url": "https://sre.google/workbook/canarying-releases/",
+    "title": "Canarying Releases",
+    "checked": "2026-10-25"
+  },
+  {
+    "url": "https://sre.google/workbook/alerting-on-slos/",
+    "title": "Alerting on SLOs",
+    "checked": "2026-10-25"
+  }
+]

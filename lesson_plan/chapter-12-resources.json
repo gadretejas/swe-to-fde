@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://c4model.com/diagrams/container",
+    "title": "C4 model: Container diagram",
+    "notes": "Draw applications, data stores, and labeled relationships.",
+    "checked": "2026-10-24"
+  },
+  {
+    "url": "https://sre.google/sre-book/service-level-objectives/",
+    "title": "Google SRE: Service Level Objectives",
+    "notes": "Define a user-facing indicator, target, and measurement window.",
+    "checked": "2026-10-24"
+  },
+  {
+    "url": "https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/",
+    "title": "AWS: Timeouts, retries, and backoff with jitter",
+    "notes": "Inspect retry safety and load amplification.",
+    "checked": "2026-10-24"
+  },
+  {
+    "url": "https://api-security.owasp.org/editions/2023/en/0xa1-broken-object-level-authorization/",
+    "title": "OWASP: Broken Object Level Authorization",
+    "notes": "Design negative tests for cross-depot record access.",
+    "checked": "2026-10-24"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=x2-rSnhpw0g",
+    "title": "Simon Brown: Visualising software architecture with the C4 model",
+    "notes": "Watch the official C4-linked talk, then explain one system at two levels of detail. Title and publisher link checked; playback not verified.",
+    "checked": "2026-10-24"
+  },
+  {
+    "url": "https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions",
+    "title": "Michael Nygard: Documenting Architecture Decisions",
+    "notes": "Write a decision with context, status, and consequences.",
+    "checked": "2026-10-24"
+  }
+]

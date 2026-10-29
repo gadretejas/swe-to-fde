@@ -1,0 +1,432 @@
+[
+  {
+    "url": "https://www.aced.io/blog/what-is-a-forward-deployed-engineer",
+    "title": "aced.io",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aFdpBqmDpzM",
+    "title": "Working Backwards: Amazon's Approach to Innovation",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MT4Ig2uqjTc",
+    "title": "How to Talk to Users",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://martinfowler.com/bliki/Yagni.html?trk=public_post_comment-text",
+    "title": "YAGNI \u2014 Martin Fowler",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://aws.amazon.com/executive-insights/content/product-management-at-amazon/",
+    "title": "Product Management at Amazon: Working Backwards",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://sre.google/workbook/error-budget-policy/",
+    "title": "Google SRE: Error Budget Policy",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4rhEsHg8kBk",
+    "title": "I Left Google for an FDE Role \u2014 Here's How My Work & Life Changed",
+    "status": "uncertain",
+    "notes": "Web fetch cache miss; video availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AD-EmZ3v6-g",
+    "title": "This Is How Forward Deployed Engineering Is Actually Done",
+    "status": "uncertain",
+    "notes": "Web fetch cache miss; video availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://openai.com/careers/forward-deployed-engineer-%28fde%29-seattle-seattle/",
+    "title": "OpenAI \u2014 Forward Deployed Engineer",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.fdeinterviews.com/blog/day-in-the-life-forward-deployed-engineer",
+    "title": "A Day in the Life of a Forward Deployed Engineer",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.businessinsider.com/palantir-rotational-forward-deployed-engineering-program-rivals-2026-8",
+    "title": "What Companies Get Wrong About Forward-Deployed Engineering",
+    "status": "uncertain",
+    "notes": "Publisher blocks web tool; article availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://itjobb.se/sv/guide/hur-mycket-tjanar-en-it-tekniker-2025",
+    "title": "itjobb.se",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5OYy_UtINo4",
+    "title": "The Role of a Forward Deployed Software Engineer",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.palantir.com/careers/students-and-early-talent/",
+    "title": "Palantir \u2014 Engineering Career Paths",
+    "status": "verified",
+    "notes": "Official Palantir URL and page title confirmed; dynamic page body not readable by verification tool.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://openai.com/careers/forward-deployed-engineer-%28fde%29-sf-san-francisco/",
+    "title": "OpenAI \u2014 Forward Deployed Engineer",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://openai.com/careers/forward-deployed-software-engineer-sf-san-francisco/",
+    "title": "OpenAI \u2014 Forward Deployed Software Engineer",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://riacube.com/software-development-consultation.php",
+    "title": "riacube.com",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.atlassian.com/team-playbook/plays/customer-interview",
+    "title": "How To Do a Customer Interview",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.simonandschuster.com/books/The-Mom-Test/Rob-Fitzpatrick/9798893312560",
+    "title": "The Mom Test \u2014 Rob Fitzpatrick",
+    "status": "uncertain",
+    "notes": "Original publisher URL returns 404. Use verified author site replacement.",
+    "checked_at": "2026-10-23",
+    "kind": "reading",
+    "replacement_url": "https://www.momtestbook.com/",
+    "replacement_title": "The Mom Test by Rob Fitzpatrick",
+    "replacement_status": "verified"
+  },
+  {
+    "url": "https://yc-startup-school.relayto.com/e/how-to-talk-to-users-rmdawvc59tr6j?doc-hub=yc-startup-school-5d4bfd2ad9079&hub=yc-startup-school-5d4bfd2ad9079",
+    "title": "How to Talk to Users \u2014 Lecture Slides and Transcript",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.easy.bi/blog/custom-software-development-framework/",
+    "title": "easy.bi",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=q26147zlcMU",
+    "title": "User Stories and Acceptance Criteria Example",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OWG0KE5GZJY",
+    "title": "User Stories & Acceptance Criteria Simplified",
+    "status": "uncertain",
+    "notes": "Video fetch failed; availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.atlassian.com/agile/project-management/user-stories",
+    "title": "User Stories with Examples and a Template",
+    "status": "verified",
+    "notes": "Matching official Atlassian URL and title confirmed in search index; direct fetch returned unsupported markdown content type.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.atlassian.com/work-management/project-management/acceptance-criteria",
+    "title": "Acceptance Criteria: Definition, Examples, and Tips",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://sre.google/resources/book-update/slos/",
+    "title": "Google SRE \u2014 Service Level Objectives",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HAnw168huqA",
+    "title": "Think Fast, Talk Smart: Communication Techniques",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1nYFpuc2Umk",
+    "title": "Nancy Duarte \u2014 The Secret Structure of Great Talks",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.atlassian.com/team-playbook/plays/stakeholder-communications-plan",
+    "title": "Stakeholder Project Communication Plan",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://developers.google.com/tech-writing/one/audience",
+    "title": "Google Technical Writing \u2014 Audience",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+    "title": "How to Think Faster and Talk Smarter",
+    "status": "uncertain",
+    "notes": "Publisher returns 403 to verification tool; availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.pineapples.dev/blog/software-project-rescue-mid-market-guide",
+    "title": "pineapples.dev",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=18Dv4nW9veU",
+    "title": "MasterClass Live with Chris Voss",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=q8rX4GUZSsU",
+    "title": "Chris Voss Teaches the Art of Negotiation",
+    "status": "uncertain",
+    "notes": "Video fetch failed; availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.atlassian.com/work-management/project-management/scope-creep",
+    "title": "How to Manage Scope Creep",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.atlassian.com/agile/project-management/scope-of-work",
+    "title": "What Is a Scope of Work?",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.atlassian.com/agile/project-management/project-baseline",
+    "title": "Understanding the Project Baseline",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.scienceofpeople.com/how-to-become-a-forward-deployed-engineer/",
+    "title": "scienceofpeople.com",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://research.com/advice/is-demand-for-cloud-computing-degree-graduates-growing-or-declining",
+    "title": "research.com",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OcfslMVcgwo",
+    "title": "What Does a Solutions Engineer Actually Do?",
+    "status": "uncertain",
+    "notes": "Video fetch failed; availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OKYqFHP72g4",
+    "title": "Day in the Life of an AWS Solutions Architect",
+    "status": "uncertain",
+    "notes": "Video fetch failed; availability not confirmed.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://openai.com/index/forward-deployed-engineering-means/",
+    "title": "What FDE Means at OpenAI",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.databricks.com/company/careers/field-engineering---fe-direct-regulated/solutions-engineer-8886384002",
+    "title": "Databricks Solutions Engineer",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.mongodb.com/careers/jobs/8094523",
+    "title": "MongoDB Forward Deployed Engineer",
+    "status": "uncertain",
+    "notes": "Original job posting returns 404; role may have closed.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/gen-ai-lifecycle-operational-excellence/dev-architecting.html",
+    "title": "Architecting a Successful Generative AI Proof of Concept",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-migration-connect/pilot.html",
+    "title": "Running a Pilot",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/operational-readiness.html",
+    "title": "Operational Readiness and Change Management",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://fde.academy/blog/forward-deployed-engineer-playbook",
+    "title": "The Forward Deployed Engineer Playbook",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://leadership-services.co.uk/insights/fractional-cio-cost-uk-2026/",
+    "title": "leadership-services.co.uk",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited. Original image-source credit, not a recommended lesson resource.",
+    "checked_at": "2026-10-23",
+    "kind": "image-credit"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o3K_HbpWNpg",
+    "title": "Think Fast. Talk Smart \u2014 Matt Abrahams",
+    "status": "verified",
+    "notes": "YouTube page and matching video title confirmed by web retrieval. Playback and full video content were not audited.",
+    "checked_at": "2026-10-23",
+    "kind": "video"
+  },
+  {
+    "url": "https://c4model.com/",
+    "title": "The C4 Model \u2014 Simon Brown",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  },
+  {
+    "url": "https://www.atlassian.com/software/confluence/resources/guides/how-to/project-proposal",
+    "title": "How to Write a Project Proposal",
+    "status": "uncertain",
+    "notes": "Original URL timed out; verified alternative Atlassian article available.",
+    "checked_at": "2026-10-23",
+    "kind": "reading",
+    "replacement_url": "https://www.atlassian.com/blog/teamwork/how-to-write-project-proposal",
+    "replacement_title": "How to write an effective project proposal",
+    "replacement_status": "verified"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/wellarchitected/latest/userguide/waf.html",
+    "title": "AWS Well-Architected Framework",
+    "status": "verified",
+    "notes": "Page URL and matching title confirmed by web retrieval. Content claims have not been independently audited.",
+    "checked_at": "2026-10-23",
+    "kind": "reading"
+  }
+]

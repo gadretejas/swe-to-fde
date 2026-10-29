@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://sre.google/sre-book/eliminating-toil/",
+    "title": "Google SRE: Eliminating Toil",
+    "checked": "2026-10-28"
+  },
+  {
+    "url": "https://sre.google/workbook/eliminating-toil/",
+    "title": "Google SRE Workbook: Eliminating Toil",
+    "checked": "2026-10-28"
+  },
+  {
+    "url": "https://martinfowler.com/bliki/Yagni.html",
+    "title": "Martin Fowler: YAGNI",
+    "checked": "2026-10-28"
+  }
+]

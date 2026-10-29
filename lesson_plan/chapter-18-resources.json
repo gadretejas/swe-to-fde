@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://openid.net/developers/how-connect-works/",
+    "title": "OpenID Foundation: How OpenID Connect Works",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html",
+    "title": "OWASP Authorization Cheat Sheet",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html",
+    "title": "OWASP Secrets Management Cheat Sheet",
+    "checked": "2026-10-27"
+  }
+]

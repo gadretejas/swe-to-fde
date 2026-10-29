@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://spec.openapis.org/oas/v3.2.1.html",
+    "title": "OpenAPI Specification",
+    "checked": "2026-10-25"
+  },
+  {
+    "url": "https://docs.github.com/en/webhooks/using-webhooks/best-practices-for-using-webhooks",
+    "title": "GitHub webhook best practices",
+    "checked": "2026-10-25"
+  },
+  {
+    "url": "https://docs.stripe.com/api/idempotent_requests",
+    "title": "Stripe idempotent requests",
+    "checked": "2026-10-25"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/429",
+    "title": "MDN: 429 Too Many Requests",
+    "checked": "2026-10-25"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://sre.google/sre-book/effective-troubleshooting/",
+    "title": "Effective Troubleshooting",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://sre.google/workbook/incident-response/",
+    "title": "Incident Response",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://opentelemetry.io/docs/concepts/signals/traces/",
+    "title": "OpenTelemetry: Traces",
+    "checked": "2026-10-27"
+  }
+]

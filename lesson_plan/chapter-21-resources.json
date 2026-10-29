@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://sre.google/sre-book/dealing-with-interrupts/",
+    "title": "Google SRE: Dealing with Interrupts",
+    "checked": "2026-10-28"
+  },
+  {
+    "url": "https://sre.google/workbook/overload/",
+    "title": "Google SRE Workbook: Identifying and Recovering from Overload",
+    "checked": "2026-10-28"
+  }
+]

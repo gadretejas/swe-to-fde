@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://www.anthropic.com/research/building-effective-agents",
+    "title": "Anthropic: Building effective agents",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html",
+    "title": "OWASP: LLM Prompt Injection Prevention",
+    "checked": "2026-10-27"
+  },
+  {
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "title": "NIST AI Risk Management Framework",
+    "checked": "2026-10-27"
+  }
+]
