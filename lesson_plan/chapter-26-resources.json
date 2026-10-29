@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+    "title": "Claude: Prompt engineering overview",
+    "checked": "2026-10-29"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/structured-output",
+    "title": "Gemini API: Structured outputs",
+    "checked": "2026-10-29"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/models",
+    "title": "Gemini API: Models",
+    "checked": "2026-10-29"
+  }
+]

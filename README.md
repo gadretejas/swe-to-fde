@@ -1,6 +1,6 @@
 # SWE → FDE Academy
 
-A local, buildless academy with the original Chapters 1–11, four module folders, shared assets, practical exercises, plus Chapters 12–25 and 170 quiz questions.
+A local, buildless academy with the original Chapters 1–11, four module folders, shared assets, practical exercises, plus Chapters 12–26 and 178 quiz questions.
 
 ## Run locally
 
@@ -22,7 +22,7 @@ The HTML can be opened directly, but use the local server for consistent browser
 - `modules/module-03/chapter-12.html`: system design, with shared progress and a chapter-specific capacity lab.
 - `assets/css/academy.css`: responsive shared styling and print styles.
 - `assets/js/catalog.js`: chapter metadata.
-- `assets/js/quizzes.js`: 170-question bank and answer explanations.
+- `assets/js/quizzes.js`: 178-question bank and answer explanations.
 - `assets/js/academy.js`: completion, navigation, quiz grading, drafts, backup/import.
 - `assets/js/practice.js`: local classification, role assignment, reflection, checklist, and traceability feedback.
 - `assets/images`: local copies of original lesson images and diagrams, plus the academy illustration.
@@ -67,3 +67,5 @@ Chapter 23 covers career growth, portfolios, and interview preparation, with a p
 Chapter 24 completes the academy with an end-to-end capstone, evidence gates, saved assessment artifacts, and eight quiz questions. Resources checked October 29, 2026.
 
 Chapter 25 opens Module 5: AI Foundations, with intuitive LLM concepts, a concept explorer, official documentation, and eight quiz questions. Resources checked October 29, 2026.
+
+Chapter 26 covers prompts, context, structured outputs, and model selection, with a decision explorer and eight quiz questions. Resources checked October 29, 2026.
