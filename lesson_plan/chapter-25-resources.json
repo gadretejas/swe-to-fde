@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://developers.google.com/machine-learning/crash-course/llm/transformers",
+    "title": "Google ML Crash Course: What's a large language model?",
+    "checked": "2026-10-29"
+  },
+  {
+    "url": "https://developers.google.com/machine-learning/crash-course/embeddings",
+    "title": "Google ML Crash Course: Embeddings",
+    "checked": "2026-10-29"
+  },
+  {
+    "url": "https://huggingface.co/learn/llm-course/chapter1/4",
+    "title": "Hugging Face: How do Transformers work?",
+    "checked": "2026-10-29"
+  }
+]
